@@ -1,0 +1,15 @@
+h2 {
+  background-color: aqua;
+  color: #8d0c0c;
+}
+
+h1 {
+  background-color: #8d0c0c;
+  color: aqua;
+}
+.boton {
+  height: 30px;
+  width: 100px;
+  background-color: blue;
+  border-radius: 10px;
+}
